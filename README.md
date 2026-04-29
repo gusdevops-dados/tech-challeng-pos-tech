@@ -190,6 +190,9 @@ notebooks/01_eda_nps.ipynb
 
 ---
 
-## 👤 Autor
-
-Gustavo Soares, colocar restante dps ---------------
+## 👤 Autores
+Gustavo - rm -
+Pietro - rm371813
+Gleison - rm372920
+Marcus - rm372152
+Felipe - rm372154

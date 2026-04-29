@@ -52,6 +52,7 @@ def main():
 
     print("\n=== Modelo final ===")
     print(f"AUC-ROC teste: {metrics['auc_roc']:.4f}")
+    print(f"Metricas de classificacao: {metrics['classification_report']}")
 
     fi = feature_importance(model, features)
     print("\n=== Top 10 variáveis mais importantes ===")
