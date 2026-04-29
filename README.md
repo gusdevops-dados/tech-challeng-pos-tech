@@ -174,25 +174,17 @@ notebooks/01_eda_nps.ipynb
 
 ## 📈 Resultados e Insights
 
-* Clientes com reclamação têm maior probabilidade de serem detratores
-* A variável de reclamação é altamente relevante para previsão
+* Clientes com reclamação e atraso na entrega têm maior probabilidade de serem detratores
+* A variável de reclamação e atraso da entrega é altamente relevante para previsão
 * Existe evidência estatística que sustenta essa relação
 * O modelo preditivo consegue capturar esse comportamento de forma consistente
 
----
-
-## 💡 Possíveis Evoluções
-
-* Testar novos modelos (Logistic Regression, XGBoost)
-* Aplicar técnicas de interpretabilidade (SHAP)
-* Implementar pipeline automatizado
-* Deploy do modelo como API
 
 ---
 
 ## 👤 Autores
-Gustavo - rm -
-Pietro - rm371813
-Gleison - rm372920
-Marcus - rm372152
-Felipe - rm372154
+- Gustavo - rm371924
+- Pietro - rm371813
+- Gleison - rm372920
+- Marcus - rm372152
+- Felipe - rm372154
